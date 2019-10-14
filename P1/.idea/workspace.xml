@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae607956-b721-4108-b457-a78063142dd6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Projeto-EDB-II" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RqLHArOTk0g3fO4K2bWKylcFtn" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.projeto.edb.entits" />
+      <recent name="br.com.projeto.edb.entits.Testes" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CompressorTest.compressorTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Main" />
+      <module name="Projeto-EDB-II" />
+      <option name="PROGRAM_PARAMETERS" value="compress $PROJECT_DIR$/src/arquivos-de-teste/testes/teste1.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-EDB-II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.CriaTree_Teste1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-EDB-II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.ApplicationTest" />
+      <option name="METHOD_NAME" value="CriaTree_Teste1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.teste2_lettersFrequency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-EDB-II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.ApplicationTest" />
+      <option name="METHOD_NAME" value="teste2_lettersFrequency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompressorTest.compressorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-EDB-II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.CompressorTest" />
+      <option name="METHOD_NAME" value="compressorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ApplicationTest" />
+      <item itemvalue="JUnit.ApplicationTest.CriaTree_Teste1" />
+      <item itemvalue="JUnit.ApplicationTest.teste2_lettersFrequency" />
+      <item itemvalue="JUnit.CompressorTest.compressorTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CompressorTest.compressorTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ApplicationTest.CriaTree_Teste1" />
+        <item itemvalue="JUnit.ApplicationTest" />
+        <item itemvalue="JUnit.ApplicationTest.teste2_lettersFrequency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae607956-b721-4108-b457-a78063142dd6" name="Default Changelist" comment="" />
+      <created>1570389588960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570389588960</updated>
+      <workItem from="1570389592246" duration="598000" />
+      <workItem from="1570390395053" duration="2858000" />
+      <workItem from="1570396832652" duration="2508000" />
+      <workItem from="1570454013039" duration="2022000" />
+      <workItem from="1570468535804" duration="4764000" />
+      <workItem from="1570474187610" duration="7965000" />
+      <workItem from="1570558399274" duration="4420000" />
+      <workItem from="1570572666645" duration="1169000" />
+      <workItem from="1570904720534" duration="49000" />
+      <workItem from="1571006571531" duration="6647000" />
+      <workItem from="1571072594733" duration="8923000" />
+      <workItem from="1571083103517" duration="238000" />
+      <workItem from="1571083632410" duration="29000" />
+      <workItem from="1571085222092" duration="967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
