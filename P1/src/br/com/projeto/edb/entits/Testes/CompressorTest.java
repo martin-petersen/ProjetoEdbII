@@ -11,7 +11,8 @@ class CompressorTest {
 
     @Test
     public void compressorTest() throws IOException {
-        Compressor a = new Compressor(new String("/home/andrevms/Documents/Projeto-EDB-II/src/arquivos-de-teste/testes/teste1.txt"), "teste");
+        Compressor a = new Compressor(new String("/home/andrevms/Documents/P1/src/arquivos-de-teste/testes/teste1.txt"), "/home/andrevms/Documents/P1/src/teste.edc");
+
     }
 
 }

@@ -59,11 +59,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CompressorTest.compressorTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Main" />
       <module name="Projeto-EDB-II" />
-      <option name="PROGRAM_PARAMETERS" value="compress $PROJECT_DIR$/src/arquivos-de-teste/testes/teste1.txt" />
+      <option name="PROGRAM_PARAMETERS" value="compress $PROJECT_DIR$/src/arquivos-de-teste/testes/teste1.txt $PROJECT_DIR$/src/teste1.edz $PROJECT_DIR$/src/teste1.edt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
@@ -146,8 +146,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CompressorTest.compressorTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CompressorTest.compressorTest" />
         <item itemvalue="JUnit.ApplicationTest.CriaTree_Teste1" />
         <item itemvalue="JUnit.ApplicationTest" />
         <item itemvalue="JUnit.ApplicationTest.teste2_lettersFrequency" />
@@ -178,6 +178,7 @@
       <workItem from="1571083103517" duration="238000" />
       <workItem from="1571083632410" duration="29000" />
       <workItem from="1571085222092" duration="967000" />
+      <workItem from="1571089738120" duration="9642000" />
     </task>
     <servers />
   </component>
