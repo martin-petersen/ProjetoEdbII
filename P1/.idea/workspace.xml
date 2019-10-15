@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae607956-b721-4108-b457-a78063142dd6" name="Default Changelist" comment="" />
+    <list default="true" id="ae607956-b721-4108-b457-a78063142dd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Extract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projeto-EDB-II/META-INF/Projeto-EDB-II.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projeto-EDB-II/br/com/projeto/edb/entits/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto-EDB-II/br/com/projeto/edb/entits/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projeto-EDB-II/teste1.edt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto-EDB-II/teste1.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,17 +24,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RqLHArOTk0g3fO4K2bWKylcFtn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -46,6 +60,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.projeto.edb.entits" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +80,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Main" />
       <module name="Projeto-EDB-II" />
-      <option name="PROGRAM_PARAMETERS" value="compress $PROJECT_DIR$/src/arquivos-de-teste/testes/teste1.txt $PROJECT_DIR$/src/teste1.edz $PROJECT_DIR$/src/teste1.edt" />
+      <option name="PROGRAM_PARAMETERS" value="compress $PROJECT_DIR$/src/arquivos-de-teste/testes/teste1.txt $PROJECT_DIR$/src/teste1.edc" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
@@ -179,10 +196,25 @@
       <workItem from="1571083632410" duration="29000" />
       <workItem from="1571085222092" duration="967000" />
       <workItem from="1571089738120" duration="9642000" />
+      <workItem from="1571158775745" duration="1082000" />
+      <workItem from="1571168172135" duration="410000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
