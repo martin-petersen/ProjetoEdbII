@@ -4,6 +4,10 @@
     <list default="true" id="ae607956-b721-4108-b457-a78063142dd6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Testes/CompressorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Testes/CompressorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste1.edc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste1.edt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste1.edz" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.CompressorTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Main" />
       <module name="Projeto-EDB-II" />
@@ -85,7 +89,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CompressorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Projeto-EDB-II" />
       <extension name="coverage">
         <pattern>
@@ -94,40 +98,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
-      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.ApplicationTest" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.CompressorTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationTest.CriaTree_Teste1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Projeto-EDB-II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
-      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.ApplicationTest" />
-      <option name="METHOD_NAME" value="CriaTree_Teste1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationTest.teste2_lettersFrequency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Projeto-EDB-II" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
-      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.ApplicationTest" />
-      <option name="METHOD_NAME" value="teste2_lettersFrequency" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,20 +120,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CompressorTest.compressorTeste1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-EDB-II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.CompressorTest" />
+      <option name="METHOD_NAME" value="compressorTeste1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompressorTest.compressorTeste4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto-EDB-II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.edb.entits.Testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.projeto.edb.entits.Testes" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.edb.entits.Testes.CompressorTest" />
+      <option name="METHOD_NAME" value="compressorTeste4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.ApplicationTest" />
-      <item itemvalue="JUnit.ApplicationTest.CriaTree_Teste1" />
-      <item itemvalue="JUnit.ApplicationTest.teste2_lettersFrequency" />
       <item itemvalue="JUnit.CompressorTest.compressorTest" />
+      <item itemvalue="JUnit.CompressorTest" />
+      <item itemvalue="JUnit.CompressorTest.compressorTeste1" />
+      <item itemvalue="JUnit.CompressorTest.compressorTeste4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CompressorTest" />
+        <item itemvalue="JUnit.CompressorTest.compressorTeste4" />
+        <item itemvalue="JUnit.CompressorTest.compressorTeste1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.CompressorTest.compressorTest" />
-        <item itemvalue="JUnit.ApplicationTest.CriaTree_Teste1" />
-        <item itemvalue="JUnit.ApplicationTest" />
-        <item itemvalue="JUnit.ApplicationTest.teste2_lettersFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +201,7 @@
       <workItem from="1571181176458" duration="947000" />
       <workItem from="1571238827270" duration="133000" />
       <workItem from="1571238982273" duration="11000" />
+      <workItem from="1571252318966" duration="2789000" />
     </task>
     <servers />
   </component>

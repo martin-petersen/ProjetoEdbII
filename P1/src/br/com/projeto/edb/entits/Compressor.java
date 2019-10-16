@@ -8,6 +8,7 @@ public class Compressor {
     public Compressor (String fileTxT, String fileEDC) throws IOException {
 
         HashMap<Character, Integer> hashmap = new HashMap<> (this.lettersFrequency(fileTxT));
+        hashmap.put((char)3,1);
         Heap heap = new Heap();
 
         heap.insert(hashmap);
@@ -22,6 +23,7 @@ public class Compressor {
     public Compressor (String fileTxT, String fileEDZ, String fileEDT) throws IOException {
 
         HashMap<Character, Integer> hashmap = new HashMap<> (this.lettersFrequency(fileTxT));
+        hashmap.put((char)3, 1);
         Heap heap = new Heap();
         heap.insert(hashmap);
         Node root = heap.createBinaryTree();
@@ -106,6 +108,8 @@ public class Compressor {
 
         rdr.close();
         brdr.close();
+
+        contenteEncriptedOut.append(codeMap.get((char)3));
 
         return contenteEncriptedOut.toString();
 
