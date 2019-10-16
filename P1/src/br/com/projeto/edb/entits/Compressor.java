@@ -27,16 +27,14 @@ public class Compressor {
         Node root = heap.createBinaryTree();
         HashMap<Character, String> codeMap = generateTableCode(root);
         String encrypted = generateEnchantedMail(fileTxT, codeMap);
-        generateEDZ(encrypted, fileEDZ);
+        generateEDZ(generateBitSet(encrypted), fileEDZ);
         generateEDT(generateStringTableCodeEDT(codeMap), fileEDT);
 
     }
 
-    private void generateEDZ(String encrypted, String fileEDT) throws IOException {
+    private void generateEDZ(byte[] encrypted, String fileEDT) throws IOException {
         FileOutputStream fileOutEDT = new FileOutputStream(fileEDT);
-        for (int i = 0; i < encrypted.length(); i++){
-            fileOutEDT.write((int) encrypted.charAt(i));
-        }
+        fileOutEDT.write(encrypted);
         fileOutEDT.close();
     }
 
