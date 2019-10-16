@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae607956-b721-4108-b457-a78063142dd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Extract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projeto-EDB-II/META-INF/Projeto-EDB-II.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projeto-EDB-II/br/com/projeto/edb/entits/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto-EDB-II/br/com/projeto/edb/entits/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projeto-EDB-II/teste1.edt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto-EDB-II/teste1.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Projeto-EDB-II/br/com/projeto/edb/entits/Compressor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projeto-EDB-II/br/com/projeto/edb/entits/Compressor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teste1.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/teste1.edc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,6 +194,9 @@
       <workItem from="1571089738120" duration="9642000" />
       <workItem from="1571158775745" duration="1082000" />
       <workItem from="1571168172135" duration="410000" />
+      <workItem from="1571176259072" duration="184000" />
+      <workItem from="1571176870068" duration="200000" />
+      <workItem from="1571181176458" duration="947000" />
     </task>
     <servers />
   </component>
