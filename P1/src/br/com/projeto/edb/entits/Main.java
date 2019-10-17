@@ -14,7 +14,7 @@ public class Main {
             Compressor a = new Compressor(args[1],args[2]);
             return;
         }else if( args[0].equals(new String("extract"))){
-            Extract b = new Extract(args[1],args[2], args[3]);
+            Extrator b = new Extrator(args[1],args[2], args[3]);
         }
 
     }
