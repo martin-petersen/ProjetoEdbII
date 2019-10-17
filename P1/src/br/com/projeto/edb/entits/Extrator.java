@@ -40,26 +40,29 @@ public class Extrator {
         FileReader rdr = new FileReader(fileEDT);
         BufferedReader brdr = new BufferedReader(rdr);
 
-        ArrayList<String> str = new ArrayList<>();
         HashMap<String, Character> mapa = new HashMap<>();
 
-        StringBuffer st = new StringBuffer();
-        st.append((char)brdr.read());
+        StringBuffer letterCode = new StringBuffer();
+        char letterNow;
+        char auxReader = (char) brdr.read();
 
-        while()
+        while( auxReader != (char) 1 ){
 
-        while((st = brdr.readLine()) != null) {
-            str.add(st);
-        }
+            letterNow = auxReader;
 
-        for(int i = 0; i<str.size(); ++i) {
-            StringBuffer sb = new StringBuffer();
-            for(int j = 1; j<str.get(i).length(); ++j) {
-                sb.append(str.get(i).charAt(j));
+            if ((auxReader != '0') || (auxReader != '1')){
+                auxReader = (char) brdr.read();
             }
-            System.out.println("Tabela: " + sb + " -> " + str.get(i).charAt(0));
-            mapa.put(sb.toString(), str.get(i).charAt(0));
+
+            while((auxReader == '1') || (auxReader == '0')){
+                letterCode.append(auxReader);
+                auxReader = (char) brdr.read();
+            }
+
+            mapa.put(letterCode.toString(), letterNow);
+            letterCode = new StringBuffer();
         }
+
         this.map = mapa;
     }
 
