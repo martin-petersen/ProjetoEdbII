@@ -3,11 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="ae607956-b721-4108-b457-a78063142dd6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste1.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste1.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste1.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste1.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste10.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste10.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste10.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste10.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste2.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste2.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste2.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste2.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste3.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste3.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste3.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste3.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste4.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste4.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste4.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste4.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste5.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste5.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste5.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste5.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste6.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste6.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste6.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste6.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste7.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste7.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste7.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste7.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste8.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste8.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste8.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste8.edt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste9.edc" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste9.edc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste9.edt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/ArquivosTestes/teste9.edt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Compressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Testes/CompressorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/projeto/edb/entits/Testes/CompressorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teste1.edc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teste1.edt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teste1.edz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,6 +219,8 @@
       <workItem from="1571238827270" duration="133000" />
       <workItem from="1571238982273" duration="11000" />
       <workItem from="1571252318966" duration="2789000" />
+      <workItem from="1571330941848" duration="1004000" />
+      <workItem from="1571332288603" duration="2449000" />
     </task>
     <servers />
   </component>

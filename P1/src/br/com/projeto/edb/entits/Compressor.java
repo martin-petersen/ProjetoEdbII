@@ -64,9 +64,8 @@ public class Compressor {
         while(it.hasNext()){
             Map.Entry mapElement = (Map.Entry)it.next();
             str.append(mapElement.getKey()).append(mapElement.getValue());
-            if (it.hasNext())
-                str.append('\n');
         }
+        str.append((char)1);
         return str.toString();
     }
 
@@ -78,6 +77,7 @@ public class Compressor {
             Map.Entry mapElement = (Map.Entry)it.next();
             str.append(mapElement.getKey()).append(mapElement.getValue());
         }
+        str.append((char)1);
         str.append('\n');
         return str.toString();
     }
@@ -112,8 +112,6 @@ public class Compressor {
         contenteEncriptedOut.append(codeMap.get((char)3));
 
         return contenteEncriptedOut.toString();
-
-
     }
 
     private HashMap<Character, Integer> lettersFrequency(String fileName) throws IOException {
